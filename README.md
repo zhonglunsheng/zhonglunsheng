@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+### About Me
+/play loggins 大家好，我是Lipop :wave:，爱好摄影（dashan）:see_no_evil:、健身（baoming）:innocent:、做饭（litter）:eyes:等等，热爱编程，当然技术也菜，喜欢探索世界的奥秘 ，追求世界的真理。
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhonglunsheng&show_icons=true&theme=graywhite)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhonglunsheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
