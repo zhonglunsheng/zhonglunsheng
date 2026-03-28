@@ -15,11 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhonglunsheng&show_icons=true&theme=graywhite)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhonglunsheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
